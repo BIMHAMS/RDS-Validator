@@ -1,0 +1,7 @@
+{
+  "title": "RDS Validator",
+  "icon": "https://bimhams.github.io/RDS-Validator/rds-validator.svg",
+  "url": "https://bimhams.github.io/RDS-Validator/",
+  "description": "RDS-kontroll og versjonssammenligning i Trimble Connect",
+  "enabled": true
+}
